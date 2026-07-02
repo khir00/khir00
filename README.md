@@ -1,16 +1,35 @@
 ## Hi there 👋
+# Mohamad Khir Alhomsi (Khir)
+### AI Engineer — GenAI & LLM Applications
 
-<!--
-**khir00/khir00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production GenAI systems (RAG, agents, fine-tuning) — and document the
+path from AI grad to AI Engineer, in Arabic and English.
 
-Here are some ideas to get you started:
+🎓 B.Eng. Information Engineering (AI & Data Science), Syrian Private University
+💼 AI Engineer @ AppTech Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Featured Work
+
+**[AI Career RAG](https://github.com/khir00/ai-career-rag)** — Bilingual (Arabic/English) RAG career assistant
+Grounded retrieval + generation, evaluated systematically — not a chatbot wrapper.
+`Precision@1: 80%` · `Precision@3: 100%` · SBERT + FAISS + Qwen2.5-1.5B
+🔗 [Live Demo](https://huggingface.co/spaces/khir1232/ai-career-rag)
+
+**[SignStream](https://github.com/khir00/signstream)** — ASL-to-speech pipeline (video → sign → English → audio)
+Efficient pose-based Transformer, fine-tuned T5 for gloss-to-text.
+`74.70% val / 67.40% test top-1` · `18.65M params` · `2,731 classes` · ASL Citizen (~83K videos)
+
+**[Diabetic Retinopathy Grading](https://github.com/khir00/diabetic-retinopathy)** — Ordinal severity classification
+EfficientNetB3 + CORAL ordinal regression, deployed as clean inference package.
+`QWK 0.9143` · `81.86% accuracy` · `weighted F1 0.824` · APTOS 2019
+
+---
+
+### 📍 Currently
+Building GenAI systems and writing the AI-grad → AI-Engineer roadmap
+for Arabic-speaking AI graduates.
+
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/mohammad-khir-alhomsi)
