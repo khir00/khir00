@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Mohamad Khir Alhomsi (Khir)
+# Mohammad Khir Alhomsi (Khir)
 ### AI Engineer — GenAI & LLM Applications
 
 I build production GenAI systems (RAG, agents, fine-tuning) — and document the
@@ -11,6 +11,7 @@ path from AI grad to AI Engineer, in Arabic and English.
 ---
 
 ### 🔧 Featured Work
+**[Agent From Scratch](https://github.com/khir00/agent-from-scratch) — Tool-calling data-analysis agent built with no framework Raw ReAct loop, 9 tools, evaluated on clean and adversarial data. `95.8% held-out` · `66.7% dirty data` · `100% abstention` · Groq + gpt-oss-120b
 
 **[AI Career RAG](https://github.com/khir00/ai-career-rag)** — Bilingual (Arabic/English) RAG career assistant
 Grounded retrieval + generation, evaluated systematically — not a chatbot wrapper.
