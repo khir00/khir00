@@ -11,6 +11,10 @@ path from AI grad to AI Engineer, in Arabic and English.
 ---
 
 ### 🔧 Featured Work
+**[adstyle](https://github.com/khir00/adstyle)** — AI marketing-image generator: turns a product photo into a finished ad while keeping the product pixel-perfect.
+Inpaint-around-product + custom SDXL LoRA + LLM art director. Bilingual (Arabic/English).
+`pixel-exact product` · `1,253-img LoRA` · `CLIP 32.6 / FID 227` · SDXL + PEFT + FastAPI
+
 [Agent From Scratch](https://github.com/khir00/agent-from-scratch) — Tool-calling data-analysis agent built with no framework Raw ReAct loop, 9 tools, evaluated on clean and adversarial data. `95.8% held-out` · `66.7% dirty data` · `100% abstention` · Groq + gpt-oss-120b
 
 **[AI Career RAG](https://github.com/khir00/ai-career-rag)** — Bilingual (Arabic/English) RAG career assistant
