@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Mohammad Khir Alhomsi (Khir)
+# Mohamad Kheer Alhomsi
 ### AI Engineer — GenAI & LLM Applications
 
 I build production GenAI systems (RAG, agents, fine-tuning) — and document the
